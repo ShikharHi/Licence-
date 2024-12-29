@@ -4,7 +4,7 @@
 
 Licensed under the Shikhar Jadav License, Version 1.0 (the "License"). You may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
-> [Link to License File or Repository]  
+>[https://github.com/ShikharHi/Licence-/blob/597cfc2f07411228dba4f322951fcf01cd2b0068/LICENSE.md]  
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations.
 
@@ -52,5 +52,5 @@ Copyright 2024 Shikhar Jadav
 
 This Work is licensed under the Shikhar Jadav License, Version 1.0.
 Unauthorized commercial or competitive use is strictly prohibited.
-See [Link to License File] for full terms and conditions.
+See [https://github.com/ShikharHi/Licence-/blob/597cfc2f07411228dba4f322951fcf01cd2b0068/LICENSE.md] for full terms and conditions.
 ``
